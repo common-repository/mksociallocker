@@ -1,0 +1,18 @@
+  #mkSocialLockerHideContent{display: none}
+  .mkLockerAlert{    background: #F44336;
+    color: #fff;
+    padding: 10px;
+    border-left: 10px solid #ce291d;
+box-shadow:0 8px 24px rgba(0,0,0,0.15); border-radius:4px;}
+    #mkSocialLocker{width: 100%}
+    .mkSocialLocker{display: flex;background: #ECEFF1;box-shadow:0 8px 24px rgba(0,0,0,0.15); border-radius:4px;margin: 15px 0}
+    .mkSocialLockerLeftText{text-orientation: upright;writing-mode: vertical-rl;border-right: 10px solid #ddd;box-shadow:0 8px 24px rgba(0,0,0,0.15); border-radius:4px;font-weight: bold;float: left;}
+    .mkSocialLockerRight{float:right;    width: 100%;}
+    .mkSocialLockerRightMedia ul > li{list-style: none; float: left; margin-left: 10px; padding: 10px;box-shadow:0 8px 24px rgba(0,0,0,0.15); border-radius:4px;color:#fff;width: 28%;text-align: center;cursor: pointer;}
+    .mkSocialLockerRightMedia ul > li > i{    float: left;    display: inherit;}
+    .mkSocialLockerRightMedia ul > li > .icon-facebook {border-right: 2px solid #4566ab;}
+    .mkSocialLockerRightMedia ul > li > .icon-twitter {border-right: 2px solid #439ed6;}
+    .mkSocialLockerRightMedia ul > li > .icon-gplus {border-right: 2px solid #b73e33;}
+    .mkSocialLockerFB{background: #3b5998}
+    .mkSocialLockerTW{background: #48aae6}
+    .mkSocialLockerGP{background: #db4437}
